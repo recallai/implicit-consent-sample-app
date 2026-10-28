@@ -1,5 +1,7 @@
 # Implicit Recording Consent Sample App
 
+![Recall bot recording in Google Meet with chat instructions for opting out](docs/images/implicit-consent-demo.png)
+
 This app shows how to send a Recall.ai bot to a meeting, disclose recording in chat, and let participants opt out with two different methods: one-click opt out with a link, and through the meeting chat.
 
 ## What you can do
